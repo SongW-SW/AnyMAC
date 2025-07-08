@@ -34,16 +34,16 @@ The benchmark script supports both OpenAI models (gpt-4o, o3-mini) and local mod
 
 ```bash
 # Run with default model (deepseek-r1:1.5b-qwen-distill-fp16)
-python GDesigner/experiments/run_llm_benchmark.py
+python AnyMAC/experiments/run_llm_benchmark.py
 
 # Run with a specific model
-python GDesigner/experiments/run_llm_benchmark.py --llm_name qwen2.5:1.5b-instruct-fp16
+python AnyMAC/experiments/run_llm_benchmark.py --llm_name qwen2.5:1.5b-instruct-fp16
 
 # Run with multiple models
-python GDesigner/experiments/run_llm_benchmark.py --models gpt-4o llama3.2:1b-instruct-fp16 gemma3:1b
+python AnyMAC/experiments/run_llm_benchmark.py --models gpt-4o llama3.2:1b-instruct-fp16 gemma3:1b
 
 # Run with all supported models
-python GDesigner/experiments/run_llm_benchmark.py --all_models
+python AnyMAC/experiments/run_llm_benchmark.py --all_models
 ```
 
 ## Supported Models
@@ -63,13 +63,13 @@ python GDesigner/experiments/run_llm_benchmark.py --all_models
 
 ```bash
 # Set batch size
-python GDesigner/experiments/run_llm_benchmark.py --batch_size 8
+python AnyMAC/experiments/run_llm_benchmark.py --batch_size 8
 
 # Set number of iterations
-python GDesigner/experiments/run_llm_benchmark.py --num_iterations 20
+python AnyMAC/experiments/run_llm_benchmark.py --num_iterations 20
 
 # Change routing mode
-python GDesigner/experiments/run_llm_benchmark.py --mode DirectAnswer
+python AnyMAC/experiments/run_llm_benchmark.py --mode DirectAnswer
 ```
 
 Available modes:
@@ -83,4 +83,4 @@ Available modes:
 
 ## Results
 
-Results are saved in `GDesigner/result/gsm8k/` with filenames that include the model name and timestamp. 
+Results are saved in `AnyMAC/result/gsm8k/` with filenames that include the model name and timestamp. 
