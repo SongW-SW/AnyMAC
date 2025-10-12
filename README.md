@@ -22,13 +22,7 @@ ollama serve
 
 Keep this terminal window open while running experiments.
 
-### 2. Activate Conda Environment
-
-```bash
-conda activate gdesigner
-```
-
-### 3. Run Benchmarks
+### 2. Run Benchmarks
 
 The benchmark script supports both OpenAI models (gpt-4o, o3-mini) and local models via Ollama.
 
