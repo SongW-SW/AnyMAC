@@ -63,13 +63,13 @@ python AnyMAC/experiments/run_llm_benchmark.py --all_models
 
 ```bash
 # Set batch size
-python AnyMAC/experiments/run_llm_benchmark.py --batch_size 8
+python experiments/run_llm_benchmark.py --batch_size 8
 
 # Set number of iterations
-python AnyMAC/experiments/run_llm_benchmark.py --num_iterations 20
+python experiments/run_llm_benchmark.py --num_iterations 20
 
 # Change routing mode
-python AnyMAC/experiments/run_llm_benchmark.py --mode DirectAnswer
+python experiments/run_llm_benchmark.py --mode DirectAnswer
 ```
 
 Available modes:
