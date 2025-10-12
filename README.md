@@ -28,16 +28,16 @@ The benchmark script supports both OpenAI models (gpt-4o, o3-mini) and local mod
 
 ```bash
 # Run with default model (deepseek-r1:1.5b-qwen-distill-fp16)
-python AnyMAC/experiments/run_llm_benchmark.py
+python experiments/run_llm_benchmark.py
 
 # Run with a specific model
-python AnyMAC/experiments/run_llm_benchmark.py --llm_name qwen2.5:1.5b-instruct-fp16
+python experiments/run_llm_benchmark.py --llm_name qwen2.5:1.5b-instruct-fp16
 
 # Run with multiple models
-python AnyMAC/experiments/run_llm_benchmark.py --models gpt-4o llama3.2:1b-instruct-fp16 gemma3:1b
+python experiments/run_llm_benchmark.py --models gpt-4o llama3.2:1b-instruct-fp16 gemma3:1b
 
 # Run with all supported models
-python AnyMAC/experiments/run_llm_benchmark.py --all_models
+python experiments/run_llm_benchmark.py --all_models
 ```
 
 ## Supported Models
