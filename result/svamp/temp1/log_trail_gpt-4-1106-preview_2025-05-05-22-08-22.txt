@@ -1,0 +1,3 @@
+--- Starting Training Run: 2025-05-05-22-08-22 ---
+Training Epoch 1/1000
+Collecting traces for all training samples...

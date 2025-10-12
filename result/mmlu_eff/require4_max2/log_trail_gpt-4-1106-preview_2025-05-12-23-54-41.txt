@@ -1,0 +1,1714 @@
+--- Starting Training Run: 2025-05-12-23-54-41 ---
+Training Epoch 1/1000
+Collecting traces for all training samples...
+  Sampling traces for question 1/80
+First agent logits: [-1.9567592144012451, -0.24679067730903625, 1.758347749710083, 0.6283515691757202, -0.6079056262969971, -0.2588854432106018, 2.6884922981262207, -2.2084455490112305, -0.29315394163131714, 0.49530917406082153]
+Routing length: 3
+Agent selections: [6, 6, 6, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1]]
+Training samples left: 990
+Training samples left: 980
+Training samples left: 970
+  Sampling traces for question 2/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.6402958631515503, 0.1639341413974762, 1.8354710340499878, 0.35579293966293335, -0.5141421556472778, -0.545680582523346, 2.6528420448303223, -2.88280987739563, -0.6110571026802063, 0.18430271744728088]
+Routing length: 5
+Agent selections: [6, 2, 6, 3, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 3/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.8716213703155518, 0.7672893404960632, 0.8527423739433289, -0.7207869291305542, -0.3441970944404602, -0.8608902096748352, 1.1866055727005005, -2.6212239265441895, -1.007154107093811, -0.12281398475170135]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 960
+    Found 4 correct answers on trace 4
+  Sampling traces for question 4/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.23223614692688, -0.042141400277614594, 1.6702461242675781, 0.5950113534927368, -0.2836682200431824, -0.37581318616867065, 2.603017568588257, -2.1856918334960938, -0.2717176675796509, 0.5214211940765381]
+Routing length: 3
+Agent selections: [2, 1, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 5/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.2701237201690674, 0.4154229760169983, 1.3672884702682495, -0.2722940444946289, -0.49047839641571045, -0.8372460007667542, 2.270862579345703, -3.086580991744995, -0.9073559045791626, 0.26880308985710144]
+Routing length: 5
+Agent selections: [1, 6, 4, 0, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 6/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.8307108879089355, 1.2249703407287598, 1.4153459072113037, -0.42121875286102295, -0.2115001678466797, -1.0211055278778076, 1.4255263805389404, -2.9439501762390137, -1.1918836832046509, -0.10562282800674438]
+Routing length: 1
+Agent selections: [1, 9]
+Hint selections: [[1]]
+Training samples left: 950
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 7/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.500278949737549, -0.18666993081569672, 1.1189215183258057, 0.06039321422576904, -1.2660614252090454, -0.6731098294258118, 1.9427399635314941, -2.4986319541931152, -0.7601310014724731, -0.23772966861724854]
+Routing length: 5
+Agent selections: [0, 2, 0, 3, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 8/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.4557933807373047, 0.4656714200973511, 1.17538583278656, -0.22540611028671265, -0.5986484289169312, -0.9079207181930542, 1.5995018482208252, -2.777657985687256, -1.046438455581665, -0.13876956701278687]
+Routing length: 5
+Agent selections: [0, 2, 2, 0, 0, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 940
+    Found 4 correct answers on trace 4
+  Sampling traces for question 9/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.2516756057739258, 0.6996504068374634, 1.481436014175415, -0.5484778881072998, -0.9556066989898682, -0.6532617211341858, 2.229930877685547, -2.9361302852630615, -0.8339046835899353, 0.2616867125034332]
+Routing length: 5
+Agent selections: [2, 6, 2, 2, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 10/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.7477067112922668, -0.3208482265472412, 1.73701810836792, 0.44341158866882324, -0.7702471017837524, -0.7818694710731506, 2.5185353755950928, -2.8686156272888184, -0.771303653717041, 0.06656455993652344]
+Routing length: 3
+Agent selections: [6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 11/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.1475415229797363, -0.08229787647724152, 1.070449948310852, -0.29916003346443176, -0.9162497520446777, -0.8018990755081177, 2.1865248680114746, -2.7539470195770264, -0.7210448980331421, 0.1686384677886963]
+Routing length: 5
+Agent selections: [6, 0, 2, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 930
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 12/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.3426265716552734, 1.1579022407531738, 1.1747742891311646, -0.5438008904457092, -0.6415725350379944, -0.8224069476127625, 1.3912996053695679, -2.7492876052856445, -1.045637845993042, -0.26389700174331665]
+Routing length: 5
+Agent selections: [2, 0, 0, 0, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 13/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.5062241554260254, 1.1267814636230469, 1.0098457336425781, -0.7771733999252319, -0.2966371774673462, -0.8595281839370728, 1.2205300331115723, -2.755887269973755, -1.0742104053497314, -0.10134437680244446]
+Routing length: 5
+Agent selections: [0, 2, 6, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 920
+    Found 4 correct answers on trace 4
+  Sampling traces for question 14/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.0901336669921875, 0.7926526665687561, 1.2386868000030518, -0.3188248872756958, -0.5235356092453003, -1.0417262315750122, 1.6946091651916504, -2.872631072998047, -1.064175009727478, 0.0029397099278867245]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 15/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.0848987102508545, 0.9667329788208008, 1.4727907180786133, -0.5825515389442444, -0.6830210089683533, -0.7589439153671265, 2.154099225997925, -3.0235023498535156, -0.8656927347183228, 0.23547527194023132]
+Routing length: 5
+Agent selections: [0, 6, 6, 6, 2, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 16/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.3122354745864868, -0.523169755935669, 1.458805799484253, 0.32245469093322754, -0.5831774473190308, -0.8007912039756775, 2.409615993499756, -2.9351999759674072, -0.7766502499580383, 0.116911381483078]
+Routing length: 5
+Agent selections: [6, 6, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 910
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 17/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.6590067148208618, -0.6631158590316772, 1.4573249816894531, 0.5525386333465576, -1.1735795736312866, -0.7959476709365845, 2.352375030517578, -2.567270517349243, -0.6888476610183716, -0.13317954540252686]
+Routing length: 5
+Agent selections: [5, 2, 0, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 18/80
+First agent logits: [2.144775390625, 0.7241286635398865, 1.1278694868087769, -0.44541728496551514, -0.4699021875858307, -0.95829838514328, 1.7623937129974365, -2.901984691619873, -0.9937232732772827, 0.011721507646143436]
+Routing length: 5
+Agent selections: [6, 0, 0, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+Training samples left: 900
+Training samples left: 890
+Training samples left: 880
+  Sampling traces for question 19/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.6541380882263184, 0.3394446074962616, 0.8453296422958374, -0.7717207670211792, -0.6488831043243408, -0.8317331075668335, 1.7131638526916504, -2.6536693572998047, -0.8139169216156006, 0.16737808287143707]
+Routing length: 5
+Agent selections: [0, 2, 0, 0, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 870
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 20/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.2069209814071655, 1.3105366230010986, 1.433517336845398, -0.6274782419204712, -0.07695724815130234, -0.9277623295783997, 1.7023648023605347, -3.127582550048828, -1.0308749675750732, 0.13681289553642273]
+Routing length: 4
+Agent selections: [6, 6, 6, 1, 9]
+Hint selections: [[0], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 21/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.3885043263435364, 0.5608848929405212, 1.7970349788665771, 0.030782245099544525, -0.3804037570953369, -0.6013878583908081, 2.5299763679504395, -3.0211963653564453, -0.6998910903930664, 0.17400068044662476]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+Training samples left: 860
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 22/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.5033626556396484, 0.6599061489105225, 1.555282473564148, -0.2456226348876953, -0.5806518793106079, -0.8793290853500366, 2.461793899536133, -3.0342583656311035, -0.7719100713729858, 0.3304443359375]
+Routing length: 1
+Agent selections: [2, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 23/80
+First agent logits: [2.7750115394592285, 0.8119432926177979, 0.9005861282348633, -0.6321954131126404, -0.5382176637649536, -0.8698073029518127, 1.2756763696670532, -2.649229049682617, -0.9900496006011963, -0.08433376252651215]
+Routing length: 5
+Agent selections: [0, 0, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 0], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 1 correct answers on trace 2
+Training samples left: 850
+    Found 2 correct answers on trace 6
+    Found 3 correct answers on trace 8
+    Found 4 correct answers on trace 10
+  Sampling traces for question 24/80
+    Found 1 correct answers on trace 1
+First agent logits: [3.4974024295806885, 0.5518304705619812, 0.6756246089935303, -0.44595009088516235, -0.6737313270568848, -0.7660671472549438, 0.7051895260810852, -2.075226306915283, -0.9926832318305969, -0.47784528136253357]
+Routing length: 5
+Agent selections: [0, 0, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 25/80
+Training samples left: 840
+First agent logits: [1.8992853164672852, 1.553006649017334, 1.2544833421707153, -0.6647177338600159, -0.5679224729537964, -0.8458875417709351, 1.4142383337020874, -2.8072760105133057, -1.1347742080688477, -0.1017206534743309]
+Routing length: 5
+Agent selections: [2, 0, 0, 6, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+    Found 1 correct answers on trace 5
+    Found 2 correct answers on trace 6
+    Found 3 correct answers on trace 7
+    Found 4 correct answers on trace 9
+  Sampling traces for question 26/80
+First agent logits: [2.939598321914673, 0.385517418384552, 1.0249284505844116, -0.24342608451843262, -0.8002103567123413, -0.9316114783287048, 1.3013161420822144, -2.4629909992218018, -1.0222558975219727, -0.19287008047103882]
+Routing length: 5
+Agent selections: [0, 8, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+Training samples left: 830
+    Found 1 correct answers on trace 3
+    Found 2 correct answers on trace 4
+    Found 3 correct answers on trace 7
+    Found 4 correct answers on trace 10
+  Sampling traces for question 27/80
+First agent logits: [2.002148389816284, -0.40231597423553467, 1.2753269672393799, 0.04686318337917328, -1.0342321395874023, -0.6870319247245789, 2.2190747261047363, -2.7277908325195312, -0.7374319434165955, 0.04509475827217102]
+Routing length: 5
+Agent selections: [0, 0, 0, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+Training samples left: 820
+Training samples left: 810
+Training samples left: 800
+Training samples left: 790
+  Sampling traces for question 28/80
+    Found 1 correct answers on trace 1
+First agent logits: [-3.333279609680176, -0.894059419631958, 1.3118420839309692, 1.0752372741699219, -0.28852638602256775, 0.11895962059497833, 2.077083110809326, -0.8539679646492004, 0.31109148263931274, 0.4756194055080414]
+Routing length: 5
+Agent selections: [6, 2, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 29/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.603546142578125, -0.3320375680923462, 1.5931293964385986, 0.2408900260925293, -0.2555387318134308, -0.45150598883628845, 2.832085371017456, -2.4583802223205566, -0.3046933114528656, 0.7389463782310486]
+Routing length: 5
+Agent selections: [2, 6, 6, 6, 6, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 30/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.8302167654037476, -2.0254135131835938, 1.6754533052444458, 1.3840701580047607, -0.9943075180053711, -0.3045254349708557, 2.6295828819274902, -1.6476666927337646, -0.03341894596815109, 0.1471935659646988]
+Routing length: 5
+Agent selections: [2, 6, 2, 5, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 780
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 31/80
+First agent logits: [2.950467586517334, 0.09335482120513916, 1.0098259449005127, -0.2796090841293335, -0.5833537578582764, -0.9399236440658569, 1.3866606950759888, -2.5255894660949707, -0.9399236440658569, -0.17236487567424774]
+Routing length: 2
+Agent selections: [0, 0, 9]
+Hint selections: [[1], [1, 1]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 32/80
+First agent logits: [3.214449882507324, 0.10369966924190521, 0.6190774440765381, -0.591712236404419, -0.5105768442153931, -0.9416986703872681, 1.3233709335327148, -2.3757307529449463, -0.7923903465270996, -0.0468088760972023]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 1 correct answers on trace 2
+Training samples left: 770
+    Found 2 correct answers on trace 5
+    Found 3 correct answers on trace 6
+    Found 4 correct answers on trace 8
+  Sampling traces for question 33/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.4903464317321777, 0.9022409915924072, 1.0319325923919678, -0.7454463839530945, -0.5725243091583252, -0.825859546661377, 1.4481102228164673, -2.735841989517212, -1.0113252401351929, 0.021503262221813202]
+Routing length: 5
+Agent selections: [0, 0, 0, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+Training samples left: 760
+    Found 4 correct answers on trace 6
+  Sampling traces for question 34/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.331835985183716, -0.08562399446964264, 0.8962159156799316, -0.5777593851089478, -1.0258673429489136, -0.6401541829109192, 2.1673405170440674, -2.6516427993774414, -0.6498780250549316, 0.2339128851890564]
+Routing length: 1
+Agent selections: [0, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 35/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.292454242706299, 0.6126469373703003, 1.092318058013916, -0.7511334419250488, -0.7087249159812927, -0.7731762528419495, 1.7888236045837402, -2.790095090866089, -0.8750045299530029, 0.1126101091504097]
+Routing length: 5
+Agent selections: [0, 6, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 36/80
+Training samples left: 750
+    Found 1 correct answers on trace 1
+First agent logits: [2.669931650161743, -0.37173378467559814, 1.2393975257873535, 0.4742810130119324, -1.1129225492477417, -0.9004218578338623, 1.659271478652954, -2.33864688873291, -0.8616816997528076, -0.45662009716033936]
+Routing length: 5
+Agent selections: [3, 0, 6, 0, 3, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 37/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.096195936203003, -0.14062727987766266, 1.600110411643982, 0.08424967527389526, -0.5162668228149414, -0.46527358889579773, 2.8800086975097656, -2.670651435852051, -0.3363652229309082, 0.6616449952125549]
+Routing length: 5
+Agent selections: [6, 6, 6, 2, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 38/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.5265910625457764, 1.3258368968963623, 0.962859570980072, -0.7225899696350098, -0.39721667766571045, -0.8591517806053162, 1.157212734222412, -2.6754236221313477, -1.103973388671875, -0.21632179617881775]
+Routing length: 5
+Agent selections: [6, 3, 1, 0, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 740
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 39/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.2193722426891327, 1.4119646549224854, 1.6190564632415771, -0.3234764039516449, -0.44069820642471313, -0.6324396133422852, 2.231959104537964, -3.017345428466797, -0.8643713593482971, 0.23472273349761963]
+Routing length: 5
+Agent selections: [1, 0, 6, 6, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 40/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.8057308197021484, 0.7718629837036133, 1.05720853805542, -0.46335941553115845, -0.5469292402267456, -0.8713412284851074, 1.203002691268921, -2.60153865814209, -1.0360643863677979, -0.3195790648460388]
+Routing length: 5
+Agent selections: [2, 0, 6, 0, 0, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 730
+    Found 4 correct answers on trace 4
+  Sampling traces for question 41/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.4329942464828491, 0.02023957669734955, 1.8816171884536743, 0.47944575548171997, -0.6679060459136963, -0.5497865676879883, 2.6507210731506348, -2.8424994945526123, -0.6519798040390015, 0.11181537061929703]
+Routing length: 3
+Agent selections: [2, 6, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 42/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.0967185497283936, 0.35988545417785645, 1.6518712043762207, 0.07583187520503998, -0.7390449047088623, -0.8224599361419678, 2.2575783729553223, -2.9918837547302246, -0.9526380300521851, 0.06603693217039108]
+Routing length: 5
+Agent selections: [6, 6, 2, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 43/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.9386773109436035, 0.6388519406318665, 0.9973742961883545, -0.4088485836982727, -0.6606876850128174, -0.8946422338485718, 1.1932722330093384, -2.496347188949585, -1.0381344556808472, -0.2709713578224182]
+Routing length: 5
+Agent selections: [0, 6, 0, 0, 0, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 720
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 44/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.411527156829834, -0.022374199703335762, 1.2094926834106445, -0.16819226741790771, -0.9898654818534851, -0.7416918277740479, 1.9159516096115112, -2.650442600250244, -0.8368465304374695, -0.12987323105335236]
+Routing length: 5
+Agent selections: [2, 2, 6, 0, 3, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 45/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.2090697288513184, 0.5539819598197937, 1.2408078908920288, -0.4076758623123169, -0.7023200988769531, -0.7988414764404297, 1.7643094062805176, -2.8656692504882812, -0.9481956958770752, -0.04699067771434784]
+Routing length: 5
+Agent selections: [0, 2, 0, 2, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 710
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 46/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.2504900395870209, 0.2103452980518341, 1.471421718597412, -0.20968173444271088, -0.5474286079406738, -0.6900917887687683, 2.7202224731445312, -3.0324225425720215, -0.60980224609375, 0.43595221638679504]
+Routing length: 2
+Agent selections: [2, 6, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 47/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.2710341215133667, 1.6952626705169678, 1.4357235431671143, -0.5952885150909424, -0.4037013649940491, -0.8682764768600464, 1.577762246131897, -2.9358599185943604, -1.1483428478240967, -0.0278414748609066]
+Routing length: 5
+Agent selections: [5, 6, 6, 1, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 48/80
+Training samples left: 700
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8128210306167603, -0.16124460101127625, 1.6083979606628418, 0.30764660239219666, -0.2793107032775879, -0.40075019001960754, 2.813347339630127, -2.417994260787964, -0.14235401153564453, 0.48542046546936035]
+Routing length: 2
+Agent selections: [6, 5, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 49/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1438827514648438, -0.5862368941307068, 1.741753339767456, 0.7579292058944702, -0.3900170922279358, -0.3424761891365051, 2.6241369247436523, -2.037899971008301, -0.21257144212722778, 0.5886593461036682]
+Routing length: 3
+Agent selections: [6, 3, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 50/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.2911125719547272, -0.8538073897361755, 1.8660683631896973, 0.9094504117965698, -0.6456065773963928, -0.8460689783096313, 2.541154623031616, -2.671602725982666, -0.6316037178039551, 0.03684969246387482]
+Routing length: 4
+Agent selections: [6, 3, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 690
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 51/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.1673383712768555, 0.8359665870666504, 1.313594937324524, -0.24653296172618866, -0.44956010580062866, -0.8860217332839966, 1.5402462482452393, -2.900855541229248, -1.1049541234970093, -0.26968926191329956]
+Routing length: 5
+Agent selections: [0, 1, 1, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 52/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.9840898513793945, 0.9542863368988037, 1.1118656396865845, -0.5887828469276428, -0.6778931617736816, -0.8309414386749268, 1.8212244510650635, -2.904141902923584, -0.9552932381629944, 0.08684483915567398]
+Routing length: 5
+Agent selections: [2, 1, 0, 0, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 53/80
+Training samples left: 680
+    Found 1 correct answers on trace 1
+First agent logits: [3.2803921699523926, 0.5787470936775208, 0.685404896736145, -0.637824535369873, -0.503042995929718, -0.835044264793396, 0.9599205851554871, -2.331261157989502, -0.9551448822021484, -0.2437388300895691]
+Routing length: 5
+Agent selections: [0, 6, 0, 0, 0, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 54/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.0736775398254395, -0.6860016584396362, 1.2502143383026123, 0.19362160563468933, -0.8074641227722168, -0.8424009084701538, 2.173916816711426, -2.696009397506714, -0.7202854156494141, 0.05975169315934181]
+Routing length: 2
+Agent selections: [6, 6, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 55/80
+First agent logits: [1.619969367980957, 0.9471492767333984, 1.268178939819336, -0.5841732621192932, -0.47679054737091064, -0.9443528652191162, 1.9275760650634766, -2.9935734272003174, -0.9700800180435181, 0.2046983540058136]
+Routing length: 4
+Agent selections: [2, 1, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+Training samples left: 670
+    Found 1 correct answers on trace 10
+Training samples left: 660
+Training samples left: 650
+  Sampling traces for question 56/80
+Training samples left: 640
+    Found 1 correct answers on trace 1
+First agent logits: [1.8134584426879883, 1.5113178491592407, 1.1548207998275757, -0.9328818321228027, -0.28060299158096313, -0.7995544672012329, 1.446500301361084, -2.9221274852752686, -1.0582096576690674, 0.06502276659011841]
+Routing length: 5
+Agent selections: [1, 0, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 5
+    Found 4 correct answers on trace 6
+  Sampling traces for question 57/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.3184237480163574, -0.16586115956306458, 1.7354282140731812, 0.5142009258270264, -0.9280699491500854, -0.2768532931804657, 2.8704326152801514, -2.40702486038208, -0.3583729565143585, 0.3314087688922882]
+Routing length: 3
+Agent selections: [6, 7, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 3
+Training samples left: 630
+    Found 3 correct answers on trace 5
+    Found 4 correct answers on trace 8
+  Sampling traces for question 58/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.09620954096317291, -0.019787777215242386, 1.5591404438018799, -0.08460980653762817, -0.42373138666152954, -0.6673257350921631, 2.7337839603424072, -3.0237772464752197, -0.607962429523468, 0.4373781085014343]
+Routing length: 4
+Agent selections: [6, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 59/80
+    Found 1 correct answers on trace 1
+First agent logits: [3.1231377124786377, 0.9916844367980957, 0.6398866176605225, -0.8807375431060791, -0.4240530729293823, -0.8557201623916626, 0.8914593458175659, -2.3639135360717773, -1.0098648071289062, -0.11281149089336395]
+Routing length: 5
+Agent selections: [0, 0, 0, 0, 0, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 620
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 60/80
+    Found 1 correct answers on trace 1
+First agent logits: [3.0712332725524902, 0.9213870763778687, 0.8748817443847656, -0.5606287717819214, -0.48899000883102417, -0.8883888721466064, 0.8906115293502808, -2.4039158821105957, -1.0855236053466797, -0.33152154088020325]
+Routing length: 5
+Agent selections: [0, 0, 1, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 61/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.9771533012390137, 0.2286401093006134, 0.9780348539352417, -0.17878293991088867, -0.6808686852455139, -0.8510858416557312, 1.3448255062103271, -2.5104286670684814, -0.9626604318618774, -0.34680378437042236]
+Routing length: 5
+Agent selections: [0, 2, 0, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 62/80
+Training samples left: 610
+    Found 1 correct answers on trace 1
+First agent logits: [3.312981605529785, 0.8042565584182739, 0.5926184058189392, -0.8067817687988281, -0.3718266487121582, -0.8976867198944092, 0.7786895036697388, -2.2527389526367188, -0.9851195812225342, -0.1734454333782196]
+Routing length: 5
+Agent selections: [0, 0, 6, 0, 0, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 63/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.02721555344760418, -0.8915815353393555, 1.7087740898132324, 0.6274092197418213, -0.9264174699783325, -0.6695026755332947, 2.7582058906555176, -2.5912837982177734, -0.5279817581176758, 0.4822596311569214]
+Routing length: 5
+Agent selections: [2, 6, 6, 6, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 64/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.5729050636291504, -0.021928967908024788, 1.3901636600494385, -0.1541672945022583, -0.5050308108329773, -0.963545560836792, 2.2507095336914062, -2.9660592079162598, -0.8452620506286621, 0.23955735564231873]
+Routing length: 2
+Agent selections: [6, 0, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 600
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 65/80
+    Found 1 correct answers on trace 1
+First agent logits: [3.352543354034424, 0.2020896077156067, 0.8365477323532104, -0.17469435930252075, -0.9371954798698425, -0.8099465370178223, 1.0213663578033447, -2.1503286361694336, -0.9346147775650024, -0.40556883811950684]
+Routing length: 5
+Agent selections: [0, 0, 4, 0, 0, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 66/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.7471814155578613, 0.019821103662252426, 1.6370282173156738, 0.26807230710983276, 0.03281854838132858, -0.5689631700515747, 2.6459548473358154, -2.5679702758789062, -0.35255569219589233, 0.6333004832267761]
+Routing length: 5
+Agent selections: [6, 6, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 67/80
+Training samples left: 590
+    Found 1 correct answers on trace 1
+First agent logits: [2.8298089504241943, 0.9107220768928528, 0.8352524042129517, -0.7945678234100342, -0.31306707859039307, -0.931674599647522, 1.1591007709503174, -2.6064510345458984, -0.9847678542137146, -0.10435569286346436]
+Routing length: 5
+Agent selections: [0, 6, 0, 4, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 68/80
+First agent logits: [1.1266390085220337, 0.012665980495512486, 1.6750760078430176, 0.19505609571933746, -0.893268346786499, -0.7153112888336182, 2.386270761489868, -2.9096922874450684, -0.8137892484664917, -0.06554645299911499]
+Routing length: 3
+Agent selections: [2, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 4
+Training samples left: 580
+    Found 3 correct answers on trace 10
+    Found 4 correct answers on trace 11
+  Sampling traces for question 69/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.14304780960083008, 0.2660485506057739, 1.7094383239746094, -0.0883430689573288, -0.2544959783554077, -0.7193164229393005, 2.4960312843322754, -3.12292742729187, -0.749896764755249, 0.3183748126029968]
+Routing length: 5
+Agent selections: [6, 6, 6, 0, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 70/80
+First agent logits: [2.888193130493164, 0.4394329786300659, 0.7863423824310303, -0.7397586703300476, -0.6133170127868652, -0.8352875709533691, 1.4758678674697876, -2.5505142211914062, -0.8895995020866394, 0.037996888160705566]
+Routing length: 5
+Agent selections: [0, 0, 0, 2, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 570
+Training samples left: 560
+Training samples left: 550
+Training samples left: 540
+  Sampling traces for question 71/80
+    Found 1 correct answers on trace 1
+First agent logits: [-0.44728440046310425, 0.6088781952857971, 1.8001487255096436, -0.138976588845253, -0.5752500295639038, -0.5567991733551025, 2.5456228256225586, -2.9357690811157227, -0.7133338451385498, 0.4133586883544922]
+Routing length: 5
+Agent selections: [2, 6, 6, 2, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 72/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.467604160308838, 0.7726743221282959, 1.099518895149231, -0.5878832340240479, -0.5585012435913086, -0.8906880617141724, 1.5006684064865112, -2.7592387199401855, -1.018414855003357, -0.025739621371030807]
+Routing length: 5
+Agent selections: [0, 0, 6, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 530
+    Found 4 correct answers on trace 6
+  Sampling traces for question 73/80
+First agent logits: [0.5896129012107849, -0.1179225742816925, 1.5190081596374512, -0.07501274347305298, -0.8737713098526001, -0.6020090579986572, 2.7071335315704346, -2.9003868103027344, -0.7059462070465088, 0.45897626876831055]
+Routing length: 5
+Agent selections: [6, 2, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 74/80
+    Found 1 correct answers on trace 1
+First agent logits: [0.37163954973220825, -1.0602972507476807, 1.7646629810333252, 0.8571629524230957, -0.6700935959815979, -0.6686655879020691, 2.60433292388916, -2.668950319290161, -0.5787010192871094, 0.04890933632850647]
+Routing length: 5
+Agent selections: [6, 6, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 75/80
+Training samples left: 520
+    Found 1 correct answers on trace 1
+First agent logits: [0.852100133895874, 0.6300283670425415, 1.734511137008667, -0.04515667259693146, -0.7534359693527222, -0.8134386539459229, 2.2293787002563477, -3.0050835609436035, -0.9352997541427612, 0.10577794909477234]
+Routing length: 5
+Agent selections: [2, 6, 6, 6, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 76/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.0748658180236816, 0.7846700549125671, 1.2746177911758423, -0.43492281436920166, -0.337435781955719, -0.8881872296333313, 1.6424555778503418, -2.9816458225250244, -1.0037646293640137, -0.1301502138376236]
+Routing length: 5
+Agent selections: [0, 0, 6, 2, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 77/80
+    Found 1 correct answers on trace 1
+First agent logits: [1.7890417575836182, -0.252799391746521, 1.4764082431793213, 0.3467390537261963, -0.9196513295173645, -0.7892128229141235, 2.168091297149658, -2.788571834564209, -0.8385760188102722, -0.1905718445777893]
+Routing length: 5
+Agent selections: [1, 6, 6, 0, 6, 9]
+Hint selections: [[0], [1, 1], [0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 510
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 78/80
+    Found 1 correct answers on trace 1
+First agent logits: [3.3434793949127197, 0.13794787228107452, 0.8508018851280212, -0.2875455319881439, -0.9258780479431152, -0.7820128798484802, 1.0662298202514648, -2.168518543243408, -0.913118839263916, -0.32267969846725464]
+Routing length: 5
+Agent selections: [0, 0, 0, 6, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 79/80
+First agent logits: [-0.41066664457321167, 0.13300801813602448, 1.7746162414550781, 0.04939289391040802, -0.3143504858016968, -0.7070240378379822, 2.6174707412719727, -2.9812140464782715, -0.6103550791740417, 0.4480641484260559]
+Routing length: 5
+Agent selections: [2, 6, 6, 6, 5, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+Training samples left: 500
+    Found 3 correct answers on trace 7
+    Found 4 correct answers on trace 9
+  Sampling traces for question 80/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.1526761054992676, 0.3541916012763977, 1.7324318885803223, 0.1631145477294922, -0.436836302280426, -0.46169185638427734, 2.6719717979431152, -2.7571020126342773, -0.6126893162727356, 0.4980430603027344]
+Routing length: 3
+Agent selections: [2, 2, 6, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+Sampling complete. Collected 300 traces.
+Average Reward: 0.8375 Epoch 2 complete.
+Training network with collected traces...
+  Training Reused Epochs 1/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 2/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 3/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 4/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 5/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 6/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 7/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 8/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 9/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+  Training Reused Epochs 10/10
+    Processed batch 1/75
+    Processed batch 11/75
+    Processed batch 21/75
+    Processed batch 31/75
+    Processed batch 41/75
+    Processed batch 51/75
+    Processed batch 61/75
+    Processed batch 71/75
+Epoch 2 complete. Average Accuracy: 0.8375
+Total Reward: 67.0000 Total Count: 80
+--------------------------------------------------------------------------------
+Training Epoch 2/1000
+Collecting traces for all training samples...
+  Sampling traces for question 1/80
+First agent logits: [-1.628147006034851, 0.8139585256576538, 2.153318405151367, -0.4635809063911438, 0.009158838540315628, -0.7195614576339722, -2.9133870601654053, 1.5006558895111084, 0.7804407477378845, 0.46710073947906494]
+Routing length: 5
+Agent selections: [2, 2, 7, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 490
+Training samples left: 480
+Training samples left: 470
+Training samples left: 460
+  Sampling traces for question 2/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.51352858543396, 0.6147869229316711, 2.106771469116211, -0.519210696220398, -0.007837703451514244, -0.72576504945755, -2.959510326385498, 1.5956406593322754, 0.8616315722465515, 0.5470138788223267]
+Routing length: 2
+Agent selections: [7, 8, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 3/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1643033027648926, 0.6023468375205994, 2.014199733734131, -0.40299665927886963, 0.07743722945451736, -0.5764588117599487, -2.639815330505371, 1.5805168151855469, 0.8958452939987183, 0.6132492423057556]
+Routing length: 5
+Agent selections: [2, 2, 4, 1, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 4/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.3406219482421875, 0.6957834959030151, 2.135437250137329, -0.5364822745323181, -0.0385933555662632, -0.764507532119751, -3.028301954269409, 1.5665616989135742, 0.8150501251220703, 0.4956665635108948]
+Routing length: 5
+Agent selections: [2, 1, 3, 8, 7, 9]
+Hint selections: [[1], [0, 1], [0, 1, 0], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 450
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 5/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.7892711162567139, 0.6999884843826294, 2.078662395477295, -0.4620891809463501, 0.013538224622607231, -0.6808716058731079, -2.836266040802002, 1.5789227485656738, 0.8515465259552002, 0.5457850098609924]
+Routing length: 4
+Agent selections: [1, 7, 2, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 6/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.5500088930130005, 0.8095310926437378, 2.1582415103912354, -0.47034597396850586, 0.015019536018371582, -0.7376277446746826, -2.9536540508270264, 1.4945099353790283, 0.7738797664642334, 0.4604770541191101]
+Routing length: 1
+Agent selections: [2, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 440
+    Found 4 correct answers on trace 4
+  Sampling traces for question 7/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0280466079711914, 0.5825291872024536, 2.014256477355957, -0.4324163794517517, 0.054769597947597504, -0.6076599359512329, -2.717923641204834, 1.6080331802368164, 0.9104088544845581, 0.6160491108894348]
+Routing length: 5
+Agent selections: [2, 8, 8, 2, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 8/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.7429020404815674, 0.7009718418121338, 2.1037683486938477, -0.460146963596344, 0.026657771319150925, -0.685462236404419, -2.8654582500457764, 1.5571062564849854, 0.8328736424446106, 0.53261399269104]
+Routing length: 3
+Agent selections: [1, 1, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 9/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0320582389831543, 0.5943934917449951, 2.0061283111572266, -0.43968790769577026, 0.047730736434459686, -0.6050543785095215, -2.7130913734436035, 1.615566372871399, 0.9145079851150513, 0.6115087270736694]
+Routing length: 5
+Agent selections: [3, 7, 2, 3, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 430
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 10/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9050624370574951, 0.6650214791297913, 2.0541563034057617, -0.44228866696357727, 0.038975998759269714, -0.6442925930023193, -2.787337303161621, 1.5785281658172607, 0.8721609115600586, 0.5701081156730652]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 11/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.045685052871704, 0.4133239984512329, 1.9326491355895996, -0.4635325074195862, 0.04366588592529297, -0.5871543884277344, -2.6875500679016113, 1.7036114931106567, 0.9924836158752441, 0.6981649398803711]
+Routing length: 4
+Agent selections: [2, 8, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 420
+    Found 4 correct answers on trace 4
+  Sampling traces for question 12/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9218735694885254, 0.6417500972747803, 2.0443906784057617, -0.45482945442199707, 0.02621416002511978, -0.6462847590446472, -2.7658514976501465, 1.596374273300171, 0.8918715715408325, 0.5882161259651184]
+Routing length: 5
+Agent selections: [1, 2, 2, 7, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 13/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8194305896759033, 0.6946452260017395, 2.0870680809020996, -0.44438427686691284, 0.04557565227150917, -0.6627929210662842, -2.8358471393585205, 1.557370662689209, 0.840335488319397, 0.5374382138252258]
+Routing length: 5
+Agent selections: [8, 2, 8, 2, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 14/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0295817852020264, 0.5708678960800171, 2.0060272216796875, -0.4383905231952667, 0.04441792517900467, -0.6135070323944092, -2.707955837249756, 1.6261045932769775, 0.9194653630256653, 0.6225217580795288]
+Routing length: 5
+Agent selections: [7, 8, 2, 7, 5, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 410
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 15/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.043494462966919, 0.5845537781715393, 2.0011134147644043, -0.43244656920433044, 0.049275629222393036, -0.6071699261665344, -2.706486463546753, 1.619156837463379, 0.9166200160980225, 0.6188260316848755]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 16/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1288516521453857, 0.6929643154144287, 2.0181150436401367, -0.4002102017402649, 0.05639147758483887, -0.5941683053970337, -2.664860248565674, 1.561671495437622, 0.8780216574668884, 0.5808510184288025]
+Routing length: 5
+Agent selections: [7, 7, 8, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 400
+    Found 4 correct answers on trace 4
+  Sampling traces for question 17/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9926953315734863, 0.5567163228988647, 2.0040338039398193, -0.45203423500061035, 0.028767302632331848, -0.6135334968566895, -2.725914478302002, 1.6380597352981567, 0.9302545785903931, 0.626314640045166]
+Routing length: 5
+Agent selections: [2, 7, 4, 3, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 18/80
+First agent logits: [-1.9129339456558228, 0.5682915449142456, 2.0406908988952637, -0.4592439830303192, 0.03350219130516052, -0.6402477025985718, -2.767991304397583, 1.6188807487487793, 0.9097133874893188, 0.6092914342880249]
+Routing length: 5
+Agent selections: [4, 1, 4, 7, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 390
+Training samples left: 380
+Training samples left: 370
+  Sampling traces for question 19/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0609867572784424, 0.4555804133415222, 1.9492828845977783, -0.4601568281650543, 0.04589623212814331, -0.5871180891990662, -2.6801862716674805, 1.6865798234939575, 0.9763168096542358, 0.6747995018959045]
+Routing length: 5
+Agent selections: [2, 2, 2, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 360
+    Found 4 correct answers on trace 4
+  Sampling traces for question 20/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.956247329711914, 0.746284008026123, 2.0797762870788574, -0.4092099070549011, 0.0556543730199337, -0.6445329189300537, -2.7644314765930176, 1.5287643671035767, 0.8325671553611755, 0.5313469171524048]
+Routing length: 1
+Agent selections: [2, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 21/80
+First agent logits: [-1.7909815311431885, 0.6172897815704346, 2.0521492958068848, -0.47305434942245483, 0.025706283748149872, -0.6639798283576965, -2.8430261611938477, 1.6035959720611572, 0.8887383937835693, 0.583577036857605]
+Routing length: 5
+Agent selections: [8, 2, 2, 2, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 22/80
+Training samples left: 350
+    Found 1 correct answers on trace 1
+First agent logits: [-2.213529348373413, 0.5059655904769897, 1.9552960395812988, -0.40289005637168884, 0.06938106566667557, -0.5567814111709595, -2.603585720062256, 1.6359610557556152, 0.9510293006896973, 0.6591534614562988]
+Routing length: 5
+Agent selections: [1, 2, 7, 2, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 23/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.050295829772949, 0.5710450410842896, 2.014237642288208, -0.4408876299858093, 0.05304572358727455, -0.6140491366386414, -2.689948081970215, 1.6203365325927734, 0.9214690923690796, 0.6151057481765747]
+Routing length: 2
+Agent selections: [2, 2, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 24/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9857699871063232, 0.7093870639801025, 2.054508686065674, -0.42870521545410156, 0.057503752410411835, -0.6297106742858887, -2.746041774749756, 1.5530874729156494, 0.8560386896133423, 0.5596581697463989]
+Routing length: 5
+Agent selections: [4, 2, 2, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 340
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 25/80
+First agent logits: [-1.9788848161697388, 0.703311562538147, 2.066344738006592, -0.42810332775115967, 0.05684218928217888, -0.6410835385322571, -2.741814136505127, 1.5558940172195435, 0.8506841659545898, 0.5568161606788635]
+Routing length: 5
+Agent selections: [4, 2, 2, 2, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 1 correct answers on trace 5
+Training samples left: 330
+    Found 2 correct answers on trace 9
+    Found 3 correct answers on trace 10
+    Found 4 correct answers on trace 13
+  Sampling traces for question 26/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.3264256715774536, 0.6357442140579224, 2.114717483520508, -0.5752192735671997, -0.03528696671128273, -0.7691432237625122, -3.019960880279541, 1.6058889627456665, 0.8485774397850037, 0.5211233496665955]
+Routing length: 5
+Agent selections: [8, 2, 2, 2, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 27/80
+Training samples left: 320
+First agent logits: [-1.9100486040115356, 0.7364733815193176, 2.074876546859741, -0.4455806314945221, 0.035490624606609344, -0.6415739059448242, -2.7818603515625, 1.5503443479537964, 0.8421074151992798, 0.5397353172302246]
+Routing length: 1
+Agent selections: [2, 9]
+Hint selections: [[1]]
+Training samples left: 310
+Training samples left: 300
+Training samples left: 290
+  Sampling traces for question 28/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.797204852104187, 0.6661282777786255, 2.0678653717041016, -0.46159660816192627, 0.023801889270544052, -0.6692082285881042, -2.840207815170288, 1.5835163593292236, 0.8659720420837402, 0.5608806014060974]
+Routing length: 1
+Agent selections: [8, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 29/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.060220241546631, 0.6649012565612793, 2.046280860900879, -0.3899990916252136, 0.0627225935459137, -0.6125566959381104, -2.7092599868774414, 1.5563682317733765, 0.8678575158119202, 0.5738905668258667]
+Routing length: 5
+Agent selections: [8, 4, 7, 2, 8, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 30/80
+Training samples left: 280
+    Found 1 correct answers on trace 1
+First agent logits: [-1.7704405784606934, 0.7199759483337402, 2.0895962715148926, -0.4481136202812195, 0.01728227734565735, -0.6756067276000977, -2.8576104640960693, 1.5568244457244873, 0.8384386897087097, 0.5296769738197327]
+Routing length: 5
+Agent selections: [8, 7, 7, 4, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 31/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.5598251819610596, 0.7973729968070984, 2.1463606357574463, -0.48969268798828125, -0.012468453496694565, -0.7348055839538574, -2.9388394355773926, 1.51328444480896, 0.7977333068847656, 0.480864942073822]
+Routing length: 5
+Agent selections: [7, 2, 8, 3, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 5
+  Sampling traces for question 32/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.163666009902954, 0.4054124057292938, 1.8877458572387695, -0.4482952952384949, 0.041124679148197174, -0.5536063313484192, -2.615595817565918, 1.7195415496826172, 1.0077359676361084, 0.7195557355880737]
+Routing length: 4
+Agent selections: [2, 5, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 0, 1], [0, 0, 1, 1]]
+Training samples left: 270
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 33/80
+First agent logits: [-2.071838855743408, 0.560090184211731, 1.9934163093566895, -0.4330800175666809, 0.06162182241678238, -0.5915216207504272, -2.6914968490600586, 1.6267914772033691, 0.9199004173278809, 0.6261026859283447]
+Routing length: 5
+Agent selections: [7, 7, 2, 7, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 7
+Training samples left: 260
+    Found 4 correct answers on trace 8
+  Sampling traces for question 34/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.2238526344299316, 0.3997270166873932, 1.8967604637145996, -0.41713660955429077, 0.06194835156202316, -0.5434170961380005, -2.5850114822387695, 1.6981183290481567, 0.9997345209121704, 0.7130776047706604]
+Routing length: 5
+Agent selections: [2, 4, 2, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 35/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.972885251045227, 0.6253262758255005, 2.0238966941833496, -0.4443260431289673, 0.050431642681360245, -0.6250292062759399, -2.748868942260742, 1.6030292510986328, 0.8961381912231445, 0.5923163890838623]
+Routing length: 5
+Agent selections: [2, 7, 7, 1, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 36/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.7126938104629517, 0.5800104141235352, 2.031635284423828, -0.4944791793823242, -0.004577131941914558, -0.6774782538414001, -2.875183582305908, 1.639976978302002, 0.9126049280166626, 0.6001294255256653]
+Routing length: 5
+Agent selections: [7, 7, 3, 7, 3, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+Training samples left: 250
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 37/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8941900730133057, 0.7021118998527527, 2.0761783123016357, -0.44260144233703613, 0.0421062633395195, -0.6505837440490723, -2.790677547454834, 1.5558135509490967, 0.8537383079528809, 0.5480387210845947]
+Routing length: 5
+Agent selections: [7, 2, 7, 0, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 38/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.884566068649292, 0.6238645315170288, 2.0381016731262207, -0.4785007834434509, 0.0356057733297348, -0.6454018950462341, -2.7867679595947266, 1.6092599630355835, 0.8944003582000732, 0.5939738750457764]
+Routing length: 5
+Agent selections: [8, 3, 2, 2, 8, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 240
+    Found 4 correct answers on trace 4
+  Sampling traces for question 39/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.2693910598754883, 0.656719446182251, 2.0048813819885254, -0.3589461147785187, 0.09713114798069, -0.5594118237495422, -2.5873968601226807, 1.54214608669281, 0.8755309581756592, 0.5987027883529663]
+Routing length: 5
+Agent selections: [2, 3, 4, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 40/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0629444122314453, 0.6692506074905396, 2.031951665878296, -0.42456114292144775, 0.053215816617012024, -0.6116315126419067, -2.695965528488159, 1.570570945739746, 0.8849461078643799, 0.5851010680198669]
+Routing length: 5
+Agent selections: [8, 7, 7, 2, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 41/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8433024883270264, 0.7106366753578186, 2.0778636932373047, -0.43975308537483215, 0.03322387859225273, -0.662476122379303, -2.8218798637390137, 1.5549397468566895, 0.8509522676467896, 0.5398101806640625]
+Routing length: 4
+Agent selections: [7, 2, 1, 3, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+Training samples left: 230
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 42/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.973052978515625, 0.7374944686889648, 2.081616163253784, -0.41220158338546753, 0.061219386756420135, -0.6392654776573181, -2.752690553665161, 1.5309405326843262, 0.8308963775634766, 0.5350214242935181]
+Routing length: 5
+Agent selections: [4, 2, 2, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 43/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8669987916946411, 0.729386568069458, 2.0910561084747314, -0.44565099477767944, 0.03682779520750046, -0.6610120534896851, -2.802025079727173, 1.5420763492584229, 0.8405853509902954, 0.5356810092926025]
+Routing length: 5
+Agent selections: [2, 8, 1, 7, 7, 9]
+Hint selections: [[0], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 220
+    Found 4 correct answers on trace 4
+  Sampling traces for question 44/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.929736614227295, 0.6486998796463013, 2.0433220863342285, -0.4492214322090149, 0.03958120942115784, -0.636473536491394, -2.7701778411865234, 1.5907577276229858, 0.8845265507698059, 0.578677773475647]
+Routing length: 5
+Agent selections: [2, 7, 8, 1, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 45/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.930168867111206, 0.6585970520973206, 2.045985221862793, -0.43648794293403625, 0.04181855544447899, -0.6417192220687866, -2.7730555534362793, 1.5858654975891113, 0.8756948709487915, 0.5734919905662537]
+Routing length: 1
+Agent selections: [7, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 46/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9568620920181274, 0.5951055288314819, 2.022637367248535, -0.44005048274993896, 0.04202311858534813, -0.6234642267227173, -2.760542631149292, 1.6057660579681396, 0.9060518145561218, 0.6093661785125732]
+Routing length: 5
+Agent selections: [7, 2, 7, 7, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 210
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 47/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1543071269989014, 0.5992218852043152, 1.9905542135238647, -0.40459004044532776, 0.0726851224899292, -0.5831953287124634, -2.648484468460083, 1.5968552827835083, 0.9101835489273071, 0.6210041046142578]
+Routing length: 5
+Agent selections: [2, 2, 7, 2, 7, 9]
+Hint selections: [[0], [1, 1], [0, 0, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 48/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0290234088897705, 0.5034092664718628, 1.9526598453521729, -0.4450761079788208, 0.02225586585700512, -0.592844545841217, -2.7125303745269775, 1.6674602031707764, 0.9651813507080078, 0.6684996485710144]
+Routing length: 5
+Agent selections: [2, 0, 2, 7, 1, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 200
+    Found 4 correct answers on trace 4
+  Sampling traces for question 49/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.4731576442718506, 0.8556767702102661, 2.1711010932922363, -0.49160251021385193, -0.011039797216653824, -0.7506985664367676, -2.977761745452881, 1.4827790260314941, 0.7543065547943115, 0.44035840034484863]
+Routing length: 5
+Agent selections: [2, 2, 7, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 0, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 50/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.770496129989624, 0.8245236873626709, 2.1110098361968994, -0.43603676557540894, 0.02534095197916031, -0.6829205751419067, -2.8614959716796875, 1.5029270648956299, 0.7962892055511475, 0.49085110425949097]
+Routing length: 1
+Agent selections: [4, 9]
+Hint selections: [[1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 51/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.5130460262298584, 0.7423826456069946, 2.142487049102783, -0.5012148022651672, -0.0022428249940276146, -0.7382670640945435, -2.9620168209075928, 1.5374529361724854, 0.8020100593566895, 0.4924473762512207]
+Routing length: 5
+Agent selections: [2, 8, 1, 3, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 190
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 52/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0008668899536133, 0.486249178647995, 1.9858567714691162, -0.4528980553150177, 0.028080306947231293, -0.6053842306137085, -2.7174265384674072, 1.6615581512451172, 0.9577476978302002, 0.6569920778274536]
+Routing length: 5
+Agent selections: [7, 8, 2, 4, 1, 9]
+Hint selections: [[1], [1, 1], [0, 0, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 53/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.5877487659454346, 0.6176600456237793, 2.096933126449585, -0.5207452774047852, -0.0034089074470102787, -0.7160093784332275, -2.918356418609619, 1.609513282775879, 0.8659241795539856, 0.5562534928321838]
+Routing length: 2
+Agent selections: [5, 2, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 180
+    Found 4 correct answers on trace 4
+  Sampling traces for question 54/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9779572486877441, 0.7714503407478333, 2.0848512649536133, -0.40035051107406616, 0.059804461896419525, -0.6379486322402954, -2.7546496391296387, 1.5142462253570557, 0.8211462497711182, 0.5194219350814819]
+Routing length: 5
+Agent selections: [8, 2, 1, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 55/80
+First agent logits: [-1.9898924827575684, 0.5743746161460876, 2.0228271484375, -0.43781548738479614, 0.034373123198747635, -0.6192746758460999, -2.732116222381592, 1.6160799264907837, 0.9130489826202393, 0.6183949112892151]
+Routing length: 5
+Agent selections: [7, 7, 2, 4, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 1 correct answers on trace 3
+Training samples left: 170
+    Found 2 correct answers on trace 7
+Training samples left: 160
+    Found 3 correct answers on trace 23
+Training samples left: 150
+    Found 4 correct answers on trace 26
+  Sampling traces for question 56/80
+First agent logits: [-2.0328304767608643, 0.5911818742752075, 2.035738945007324, -0.43599820137023926, 0.060658954083919525, -0.6107606887817383, -2.707754373550415, 1.5970947742462158, 0.9019534587860107, 0.6007371544837952]
+Routing length: 3
+Agent selections: [7, 2, 2, 9]
+Hint selections: [[0], [1, 1], [0, 1, 0]]
+    Found 1 correct answers on trace 3
+    Found 2 correct answers on trace 4
+    Found 3 correct answers on trace 5
+    Found 4 correct answers on trace 6
+  Sampling traces for question 57/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8440184593200684, 0.6707895994186401, 2.069427251815796, -0.4592350125312805, 0.04219849035143852, -0.6684966087341309, -2.8109076023101807, 1.5825507640838623, 0.8620178699493408, 0.5556590557098389]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 140
+    Found 4 correct answers on trace 4
+  Sampling traces for question 58/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.899644374847412, 0.7566666603088379, 2.072096347808838, -0.4185577630996704, 0.04370605945587158, -0.6451752781867981, -2.8033480644226074, 1.5349745750427246, 0.8265831470489502, 0.5326621532440186]
+Routing length: 5
+Agent selections: [4, 7, 7, 1, 4, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 59/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1300723552703857, 0.5367177128791809, 1.9895262718200684, -0.42826956510543823, 0.06364233046770096, -0.582705020904541, -2.6481235027313232, 1.627837896347046, 0.9313755035400391, 0.6400340795516968]
+Routing length: 3
+Agent selections: [7, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 60/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.6203413009643555, 0.7685681581497192, 2.1366305351257324, -0.49126723408699036, -0.005105770193040371, -0.7198598980903625, -2.907916784286499, 1.5329749584197998, 0.8110804557800293, 0.49517524242401123]
+Routing length: 5
+Agent selections: [2, 1, 4, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 130
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 61/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.572343349456787, 0.6647347211837769, 2.076770544052124, -0.5193756818771362, -0.025331173092126846, -0.7229539155960083, -2.929623603820801, 1.6109933853149414, 0.8630388975143433, 0.5540584325790405]
+Routing length: 5
+Agent selections: [7, 2, 4, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 62/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.08111572265625, 0.6744173169136047, 2.0259406566619873, -0.42397063970565796, 0.040037110447883606, -0.60857754945755, -2.680133819580078, 1.5792739391326904, 0.8858126401901245, 0.5882789492607117]
+Routing length: 4
+Agent selections: [4, 2, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 120
+    Found 4 correct answers on trace 4
+  Sampling traces for question 63/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.9337329864501953, 0.8250923752784729, 2.1055407524108887, -0.40125125646591187, 0.05849903076887131, -0.6582039594650269, -2.7757408618927, 1.4872374534606934, 0.7994459867477417, 0.4931495785713196]
+Routing length: 5
+Agent selections: [7, 2, 1, 2, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 64/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.0138988494873047, 0.669570803642273, 2.045443534851074, -0.41122573614120483, 0.042542699724435806, -0.6205681562423706, -2.7294366359710693, 1.5701825618743896, 0.8707829713821411, 0.5766068696975708]
+Routing length: 0
+Agent selections: [9]
+Hint selections: []
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 65/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8210722208023071, 0.7066302299499512, 2.0847740173339844, -0.451863169670105, 0.026167050004005432, -0.6664090156555176, -2.8280351161956787, 1.5558788776397705, 0.8535059690475464, 0.5404309034347534]
+Routing length: 4
+Agent selections: [2, 5, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+Training samples left: 110
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 66/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.875131368637085, 0.7401360273361206, 2.070011854171753, -0.4491109251976013, 0.04171961173415184, -0.6586229801177979, -2.8018388748168945, 1.5540499687194824, 0.8444311618804932, 0.5343025922775269]
+Routing length: 5
+Agent selections: [2, 2, 2, 1, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 67/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1011269092559814, 0.5136072635650635, 1.9633358716964722, -0.4354976713657379, 0.04240080341696739, -0.5782172679901123, -2.669194459915161, 1.648317813873291, 0.9549960494041443, 0.6613631844520569]
+Routing length: 5
+Agent selections: [1, 8, 2, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+Training samples left: 100
+    Found 4 correct answers on trace 4
+  Sampling traces for question 68/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1687166690826416, 0.5926926732063293, 1.9895093441009521, -0.40421175956726074, 0.07451467961072922, -0.575976550579071, -2.6392667293548584, 1.5965949296951294, 0.9153400659561157, 0.6195571422576904]
+Routing length: 3
+Agent selections: [7, 8, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+    Found 2 correct answers on trace 4
+    Found 3 correct answers on trace 6
+    Found 4 correct answers on trace 8
+  Sampling traces for question 69/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.985031008720398, 0.7059015035629272, 2.074645519256592, -0.396578848361969, 0.06066976487636566, -0.6282640099525452, -2.7550253868103027, 1.5343105792999268, 0.8396914005279541, 0.5496949553489685]
+Routing length: 5
+Agent selections: [2, 2, 2, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 0]]
+Training samples left: 90
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 70/80
+First agent logits: [-1.999014139175415, 0.5355490446090698, 2.0058841705322266, -0.4560355246067047, 0.04661926254630089, -0.6181798577308655, -2.7185657024383545, 1.6418461799621582, 0.9314619302749634, 0.6303979158401489]
+Routing length: 5
+Agent selections: [2, 2, 0, 2, 4, 9]
+Hint selections: [[1], [0, 1], [0, 1, 1], [0, 0, 1, 0], [0, 0, 0, 1, 1]]
+Training samples left: 80
+Training samples left: 70
+Training samples left: 60
+  Sampling traces for question 71/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.6782126426696777, 0.6925395131111145, 2.125347375869751, -0.48655205965042114, 0.0029766769148409367, -0.6988641023635864, -2.8802151679992676, 1.5623114109039307, 0.83788001537323, 0.522723376750946]
+Routing length: 5
+Agent selections: [4, 2, 2, 7, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 72/80
+First agent logits: [-2.0610568523406982, 0.6308325529098511, 2.010449171066284, -0.434661865234375, 0.05139647424221039, -0.6006921529769897, -2.6985323429107666, 1.5959596633911133, 0.9051780700683594, 0.6010755300521851]
+Routing length: 3
+Agent selections: [2, 8, 4, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1]]
+Training samples left: 50
+    Found 1 correct answers on trace 2
+    Found 2 correct answers on trace 3
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 73/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.8738818168640137, 0.7524084448814392, 2.105541229248047, -0.42779213190078735, 0.04811777174472809, -0.666870653629303, -2.8005192279815674, 1.5253355503082275, 0.8186725974082947, 0.518951416015625]
+Routing length: 5
+Agent selections: [2, 4, 7, 7, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 74/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.1032111644744873, 0.7590689659118652, 2.066972255706787, -0.371288925409317, 0.08582654595375061, -0.6068209409713745, -2.690791130065918, 1.5038251876831055, 0.8244762420654297, 0.5318503379821777]
+Routing length: 2
+Agent selections: [7, 7, 9]
+Hint selections: [[1], [1, 1]]
+    Found 2 correct answers on trace 2
+Training samples left: 40
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 75/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.6201690435409546, 0.7432646751403809, 2.1106526851654053, -0.5058737993240356, -0.0017253193072974682, -0.7128396034240723, -2.9118967056274414, 1.5569121837615967, 0.8299075365066528, 0.5117021799087524]
+Routing length: 5
+Agent selections: [1, 2, 7, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 76/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.148181676864624, 0.5505034923553467, 1.9909780025482178, -0.40529680252075195, 0.06563082337379456, -0.5925151705741882, -2.639155864715576, 1.621231198310852, 0.9256240129470825, 0.6311306357383728]
+Routing length: 5
+Agent selections: [8, 7, 7, 4, 2, 9]
+Hint selections: [[1], [1, 0], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 77/80
+Training samples left: 30
+    Found 1 correct answers on trace 1
+First agent logits: [-0.8021774291992188, 0.7739712595939636, 2.1641337871551514, -0.6075903177261353, -0.08888082206249237, -0.8626600503921509, -3.203864336013794, 1.4995778799057007, 0.7275111675262451, 0.4000174403190613]
+Routing length: 5
+Agent selections: [7, 7, 2, 2, 7, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 4
+    Found 4 correct answers on trace 5
+  Sampling traces for question 78/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.6001454591751099, 0.7677451372146606, 2.1299798488616943, -0.4917997717857361, 0.011654229834675789, -0.7250081300735474, -2.9226348400115967, 1.5401054620742798, 0.8027951717376709, 0.4872938394546509]
+Routing length: 5
+Agent selections: [1, 2, 2, 2, 8, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 79/80
+    Found 1 correct answers on trace 1
+First agent logits: [-2.081975221633911, 0.6665098667144775, 2.031222105026245, -0.4039188027381897, 0.0646662637591362, -0.6047655940055847, -2.6938283443450928, 1.563993215560913, 0.8814796209335327, 0.5765569806098938]
+Routing length: 5
+Agent selections: [7, 8, 7, 7, 5, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 1, 1]]
+Training samples left: 20
+    Found 2 correct answers on trace 4
+    Found 3 correct answers on trace 6
+    Found 4 correct answers on trace 7
+  Sampling traces for question 80/80
+    Found 1 correct answers on trace 1
+First agent logits: [-1.053346872329712, 0.8193038702011108, 2.1876049041748047, -0.5644880533218384, -0.06818284094333649, -0.8304972052574158, -3.1231627464294434, 1.4841771125793457, 0.7386053800582886, 0.40997862815856934]
+Routing length: 5
+Agent selections: [2, 4, 2, 2, 2, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 0, 0, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+Sampling complete. Collected 289 traces.
+Average Reward: 0.8750 Epoch 3 complete.
+Training network with collected traces...
+  Training Reused Epochs 1/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 2/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 3/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 4/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 5/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 6/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 7/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 8/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 9/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+  Training Reused Epochs 10/10
+    Processed batch 1/73
+    Processed batch 11/73
+    Processed batch 21/73
+    Processed batch 31/73
+    Processed batch 41/73
+    Processed batch 51/73
+    Processed batch 61/73
+    Processed batch 71/73
+Epoch 3 complete. Average Accuracy: 0.8750
+Total Reward: 70.0000 Total Count: 80
+--------------------------------------------------------------------------------
+Training Epoch 3/1000
+Collecting traces for all training samples...
+  Sampling traces for question 1/80
+Training samples left: 10
+First agent logits: [1.252268671989441, 1.3377711772918701, -2.9920473098754883, 0.7159355282783508, -0.36951276659965515, 1.1697688102722168, 0.27356278896331787, -2.2340874671936035, -0.07592155039310455, 0.9222988486289978]
+Routing length: 4
+Agent selections: [5, 4, 1, 0, 9]
+Hint selections: [[1], [1, 1], [0, 1, 1], [0, 0, 1, 1]]
+Training samples left: 0
+Sampling complete. Collected 0 traces.
+Average Reward: 0.0000 Epoch 4 complete.
+Epoch 4 complete. Average Accuracy: 0.0000
+Total Reward: 0.0000 Total Count: 0
+--------------------------------------------------------------------------------

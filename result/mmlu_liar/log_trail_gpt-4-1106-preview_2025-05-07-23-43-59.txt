@@ -1,0 +1,7 @@
+--- Starting Training Run: 2025-05-07-23-43-59 ---
+Training Epoch 1/1000
+Collecting traces for all training samples...
+  Sampling traces for question 1/80
+First agent logits: [-1.9567592144012451, -0.24679067730903625, 1.758347749710083, 0.6283515691757202, -0.6079056262969971, -0.2588854432106018, 2.6884922981262207, -2.2084455490112305, -0.29315394163131714, 0.49530917406082153]
+Routing length: 3
+Agent selections: [6, 6, 6, 9]

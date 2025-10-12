@@ -1,0 +1,18 @@
+--- Starting Training Run: 2025-05-11-20-15-35 ---
+Training Epoch 1/500
+Collecting traces for all training samples...
+  Sampling traces for question 1/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.453139305114746, -0.5199859142303467, -0.46471744775772095, 0.10769359767436981, -1.57612943649292]
+Routing length: 5
+Agent selections: [0, 0, 0, 0, 0, 4]
+Hint selections: [[1], [1, 0], [1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1, 1]]
+    Found 2 correct answers on trace 2
+    Found 3 correct answers on trace 3
+    Found 4 correct answers on trace 4
+  Sampling traces for question 2/80
+    Found 1 correct answers on trace 1
+First agent logits: [2.57230281829834, -0.6656925678253174, -0.6189723014831543, -0.040561653673648834, -1.2470762729644775]
+Routing length: 5
+Agent selections: [0, 2, 0, 3, 0, 4]
+Hint selections: [[1], [1, 1], [1, 1, 1], [0, 1, 1, 1], [1, 1, 0, 1, 1]]

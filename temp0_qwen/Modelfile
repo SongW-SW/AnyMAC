@@ -1,0 +1,7 @@
+FROM qwen3:0.6b-fp16
+
+PARAMETER temperature 0
+PARAMETER top_p 1.0
+PARAMETER top_k 1
+PARAMETER repeat_penalty 1.0
+PARAMETER seed 42
