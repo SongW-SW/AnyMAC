@@ -77,4 +77,18 @@ Available modes:
 
 ## Results
 
-Results are saved in `AnyMAC/result/gsm8k/` with filenames that include the model name and timestamp. 
+Results are saved in `result/gsm8k/` with filenames that include the model name and timestamp. 
+
+
+## Reference
+
+If you use this repository or its findings of our paper in your research, please cite:
+```
+@inproceedings{wang2025anymac,
+  title={AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction},
+  author={Wang, Song and Tan, Zhen and Chen, Zihan and Zhou, Shuang and Chen, Tianlong and Li, Jundong},
+  booktitle={EMNLP 2025},
+  year={2025}
+}
+```
+
